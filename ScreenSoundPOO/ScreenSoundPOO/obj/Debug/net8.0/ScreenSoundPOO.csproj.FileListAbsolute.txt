@@ -1,0 +1,14 @@
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.exe
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.deps.json
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.runtimeconfig.json
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.dll
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.pdb
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.AssemblyInfo.cs
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.dll
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\refint\ScreenSoundPOO.dll
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.pdb
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.genruntimeconfig.cache
+C:\Users\italo\source\repos\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ref\ScreenSoundPOO.dll
